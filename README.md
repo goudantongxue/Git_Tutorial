@@ -1,2 +1,2 @@
-This is added line!
+This is a added line!
 -feature-A
